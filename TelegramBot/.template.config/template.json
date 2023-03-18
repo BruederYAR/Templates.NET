@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Brueder",
+    "classifications": [ "Common", "Console" ],
+    "identity": "Telegram.Bot.Template",
+    "name": "Telegram Bot Template",
+    "shortName": "telegrambottemplate",
+    "tags": {
+      "language": "C#",
+      "type": "project"
+    },
+    "sourceName": "TelegramBotExtension",
+    "preferNameDirectory": true
+}
