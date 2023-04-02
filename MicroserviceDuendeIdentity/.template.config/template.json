@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Brueder",
+    "classifications": [ "Common", "Web" ],
+    "identity": "Microservice.Duende.Template",
+    "name": "Microservice Duende Template",
+    "shortName": "microserviceduendetemplate",
+    "tags": {
+      "language": "C#",
+      "type": "project"
+    },
+    "sourceName": "MicroserviceDuendeTemplate",
+    "preferNameDirectory": true
+}

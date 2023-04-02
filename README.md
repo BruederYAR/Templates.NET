@@ -11,5 +11,5 @@ To install a template for your device:
     ```
 2. Perform the installation
    ```bash
-   dotnet new --intall .
+   dotnet new --install .
    ```

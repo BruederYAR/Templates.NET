@@ -1,0 +1,26 @@
+{
+  "ClientsIdentity": [
+    {
+      "Name" : "Microservice.Identity",
+      "Id" : "Microservice.Identity-4523f-21321",
+      "Secret": "Microservice.Identity-4523f-21321_21354g",
+      "Type": "Bearer"
+    }
+  ],
+  
+  "CurrentIdentityClient": {
+    "Name" : "Microservice.Identity",
+    "Id" : "Microservice.Identity-4523f-21321",
+    "Secret": "Microservice.Identity-4523f-21321_21354g",
+    "Type": "Bearer"
+  }, 
+  
+  "Scopes": [
+    {
+      "Name": "Chat",
+      "Description": "Chat API"
+    }
+  ],
+  
+  "Url": "https://localhost:10001"
+}
